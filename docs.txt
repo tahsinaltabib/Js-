@@ -1,0 +1,8 @@
+If I want to run code using VS Code terminal, then I have to follow this path----->
+
+1-pwd
+2-node main.js
+
+
+*What call method in js?
+--> If a function is declared in a property of an object, it is called a method.
